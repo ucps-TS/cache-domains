@@ -113,6 +113,11 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
+			"name": "google",
+			"description": "Chrome and Google Updates",
+			"domain_files": ["google.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
